@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>image_dump</folder>
+	<filename>site_1522609295.39.jpg</filename>
+	<path>/home/mahesh/udacity/Udacity-SDC_Capstone/image_dump/site_1522609295.39.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yellow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>304</xmin>
+			<ymin>236</ymin>
+			<xmax>331</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>

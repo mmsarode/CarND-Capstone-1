@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>image_dump</folder>
+	<filename>site_1522609286.33.jpg</filename>
+	<path>/home/mahesh/udacity/p3/team/CarND-Capstone/ros/src/tl_detector/image_dump/site_1522609286.33.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>355</xmin>
+			<ymin>248</ymin>
+			<xmax>379</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>
